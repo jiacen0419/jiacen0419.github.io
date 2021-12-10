@@ -316,6 +316,10 @@ img {
     margin-bottom: 90px;
     padding-top: 20px;
 }
+.contact-section-title {
+    margin-bottom: 50px;
+    padding-top: 20px;
+}
 .main-title {
     position: relative;
     text-align: center;
@@ -2279,7 +2283,8 @@ button.owl-dot.active,  button.owl-dot:focus{
 }
 
 .project-image {
-	float: left
+	float: left;
+    padding: 40px 40px 40px 20px;
 }
 
 .project-info {
@@ -2287,7 +2292,7 @@ button.owl-dot.active,  button.owl-dot:focus{
 	top: 50%;
 	transform: translateY(-50%);
 	margin-left: 300px;
-	padding: 15px
+	padding: 15px 15px 15px 50px;
 }
 
 .project-info h3 {
